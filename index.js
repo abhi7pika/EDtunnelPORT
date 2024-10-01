@@ -1388,4 +1388,5 @@ function GenSub(userID_path, hostname) {
 }
 
 const hostnames = [
-	'google.com'];
+	'pornhub.org',
+];
