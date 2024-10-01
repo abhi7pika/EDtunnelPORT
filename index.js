@@ -1388,5 +1388,5 @@ function GenSub(userID_path, hostname) {
 }
 
 const hostnames = [
-	'pornhub.org',
+	'speed.cloudflare.com',
 ];
