@@ -170,7 +170,7 @@ async function ProtocolOverWSHandler(request) {
 				hasError,
 				message,
 				addressType,
-				portRemote = 443,80
+				portRemote = 443,
 				addressRemote = '',
 				rawDataIndex,
 				ProtocolVersion = new Uint8Array([0, 0]),
